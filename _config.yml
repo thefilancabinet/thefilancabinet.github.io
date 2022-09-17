@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: The Filan Cabinet
-email: your-email@example.com
+logo: /assets/img/the_filan_cabinet_logo.png
+email: thefilancabinet@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   An interview podcast where I, Daniel Filan, interview guests about topics I'm
   interested in, with the aim of clarifying how the guest understands that
