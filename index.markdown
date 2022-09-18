@@ -12,4 +12,4 @@ Here's some stuff
 
 ### Subsubheader
 
-You can find episodes [here](/episodes.html)
+You can find episodes [here](/episodes/)
