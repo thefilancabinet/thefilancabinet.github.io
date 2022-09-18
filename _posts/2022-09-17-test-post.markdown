@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Test post"
+date:   2022-09-17 18:38 -0700
+categories: episode
+---
+
+This is an episode! On the real site, it would link to an episode.
