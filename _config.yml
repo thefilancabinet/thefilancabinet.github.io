@@ -54,11 +54,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-# Github account settings
-github:
-  is_user_page: false
-
-# Other page settings
-page:
-  tags: false
