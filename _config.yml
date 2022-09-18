@@ -54,3 +54,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Github account settings
+github:
+  is_project_page: false
