@@ -5,15 +5,21 @@ date:   2022-09-17 19:00 -0700
 categories: episodes
 ---
 
-In this episode, cryptocurrency developer Ameen Soleimani talks about his vision of the cryptocurrency ecosystem, as well as his current project, the RAI stablecoin.
+In this episode, cryptocurrency developer Ameen Soleimani talks about his vision of the cryptocurrency ecosystem, as well as his current project RAI: an ether-backed floating-price stablecoin. He answers questions such as:
+ - What's the point of cryptocurrency?
+ - If this is the beginning of the cryptocurrency world, what will the middle be?
+ - What would the sign be that cryptocurrency is working?
+ - How does RAI work?
+ - Does the design of RAI make it impossible for it to be widely used?
+ - What's wrong with how the US dollar works?
 
 [Link to audio](https://sites.libsyn.com/438081/3-ameen-soleimani-on-cryptocurrency)
 
-[Ameen on twitter](https://twitter.com/ameensol)
+[Ameen on Twitter](https://twitter.com/ameensol)
 
 [Reflexer Finance](https://reflexer.finance/)
 
-[Reflexer Finance on twitter](https://twitter.com/reflexerfinance)
+[Reflexer Finance on Twitter](https://twitter.com/reflexerfinance)
 
 [DeepDAO](https://deepdao.io/)
 
