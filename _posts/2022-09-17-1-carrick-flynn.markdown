@@ -5,7 +5,11 @@ date:   2022-09-17 19:00 -0700
 categories: episodes
 ---
 
-In this epsiode, Carrick Flynn talks about his campaign to be the Democratic nominee for Oregon's 6th congressional district. In particular, we talk about his policies on pandemic preparedness and semiconductor manufacturing.
+In this epsiode, Carrick Flynn talks about his campaign to be the Democratic nominee for Oregon's 6th congressional district. In particular, we talk about his policies on pandemic preparedness and semiconductor manufacturing. He answers questions such as:
+ - Was he surprised by the election result?
+ - Should we expect another Carrick campaign?
+ - What specific things should or could the government fund to limit the spread of pandemics? Why would those work?
+ - What is working at a semiconductor plant like?
 
 [Link to audio](https://sites.libsyn.com/438081/1-carrick-flynn-on-his-congressional-campaign)
 
