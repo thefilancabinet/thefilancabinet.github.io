@@ -5,7 +5,12 @@ date:   2022-09-17 19:00 -0700
 categories: episodes
 ---
 
-In this episode, Presbyterian Pastor Wayne Forkner talks about God, Christianity, and the Bible.
+In this episode, Presbyterian Pastor Wayne Forkner talks about God, Christianity, and the Bible. He answers questions such as:
+ - What is 'God'?
+ - Why do people talk about Jesus so much more than the Father or the Holy Spirit?
+ - What is heaven actually like?
+ - If justification is by faith alone and not by works, why does the Bible say "A person is justified by works and not by faith alone"?
+ - How can people tell that out of all the religions, Christianity is the right one?
 
 [Link to audio](https://sites.libsyn.com/438081/2-wayne-forkner-on-god)
 
