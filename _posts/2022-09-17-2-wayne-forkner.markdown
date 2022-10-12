@@ -12,7 +12,7 @@ In this episode, Presbyterian Pastor Wayne Forkner talks about God, Christianity
  - If justification is by faith alone and not by works, why does the Bible say "A person is justified by works and not by faith alone"?
  - How can people tell that out of all the religions, Christianity is the right one?
 
-[Link to audio](https://sites.libsyn.com/438081/2-wayne-forkner-on-god)
+[Link to audio](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5saWJzeW4uY29tLzQzODA4MS9yc3M/episode/MzQxMDdmNTQtZmRmZS00NWYyLTgwYmEtM2FiZmU2YTBhY2Mx)
 
 [His church's website](https://www.berkeleyopc.org/)
 

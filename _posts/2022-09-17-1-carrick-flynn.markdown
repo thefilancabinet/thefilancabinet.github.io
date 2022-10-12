@@ -11,7 +11,7 @@ In this epsiode, Carrick Flynn talks about his campaign to be the Democratic nom
  - What specific things should or could the government fund to limit the spread of pandemics? Why would those work?
  - What is working at a semiconductor plant like?
 
-[Link to audio](https://sites.libsyn.com/438081/1-carrick-flynn-on-his-congressional-campaign)
+[Link to audio](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5saWJzeW4uY29tLzQzODA4MS9yc3M/episode/MDlmZDE5NGUtZTVjZS00MTEyLTlhMzQtM2IyZmYxNjNkYTA0)
 
 [Carrick's campaign website](https://www.carrickflynnfororegon.com/)
 
