@@ -20,3 +20,5 @@ In this episode I speak with Oliver Habryka, head of Lightcone Infrastructure, t
 [Oli on the EA Forum](https://forum.effectivealtruism.org/users/habryka)
 
 [Oli on Twitter](https://twitter.com/ohabryka)
+
+[An unofficial transcript of this episode](https://www.lesswrong.com/posts/4NFDwQRhHBB2Ad4ZY/filan-cabinet-podcast-with-oliver-habryka-transcript)
