@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Episode 9 - Effective Altruism Global Bay Area 2023"
+title:  "Episode 9 - Effective Altruism Global: Bay Area 2023"
 date:   2023-03-13 15:30 -0700
 categories: episodes
 ---
