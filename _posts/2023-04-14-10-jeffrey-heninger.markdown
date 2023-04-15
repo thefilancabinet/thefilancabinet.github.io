@@ -18,13 +18,13 @@ In this episode I chat with Jeffrey Heninger about his religious beliefs as a me
 
 [Link to audio](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5saWJzeW4uY29tLzQzODA4MS9yc3M/episode/YzU1MzQwM2ItMjMwNS00NjFmLWI2YjItYjU5MmQ5ODdhY2Yz) ([download raw mp3](https://www.dropbox.com/s/mpj2gnsn7guahao/Heninger_final.mp3?dl=0))
 
+Jeffrey's email address: jeffrey dot heninger at yahoo dot com. Please include "The Filan Cabinet" in the subject line so he knows you came from here.
+
 LDS church links:
  - [Website of the LDS church](https://www.churchofjesuschrist.org/)
  - [Scriptures of the LDS church](https://www.churchofjesuschrist.org/study/scriptures)
  - [LDS chapels close to you](https://maps.churchofjesuschrist.org/)
  - [Chat with LDS missionaries](https://chat.comeuntochrist.org/chat/)
-
-Jeffrey's email address: jeffrey dot heninger at yahoo dot com. Please include "The Filan Cabinet" in the subject line so he knows you came from here.
 
 Jeffrey's notes and corrections:
  - 0:33:00: The combatant - noncombatant distinction did not start in Ireland in the 900s. It was started by Adomnán, an Irish abbot in Scotland, in 697, and was proclaimed throughout Western Christendom after the Council of Charroux in France in 989: <https://en.wikipedia.org/wiki/Peace_and_Truce_of_God>
