@@ -5,7 +5,7 @@ date:   2023-04-14 20:00 -0700
 categories: episodes
 ---
 
-In this episode I chat with Jeffrey Heninger about his religious beliefs as a member of the Church of Jesus Christ of Latter-day Saints, sometimes colloquially referred to as "the Mormon church" or "the LDS church". Topics we talk about include:
+In this episode I chat with Jeffrey Heninger about his religious beliefs and practices as a member of the Church of Jesus Christ of Latter-day Saints, sometimes colloquially referred to as "the Mormon church" or "the LDS church". Topics we talk about include:
  - Who or what is God?
  - How can we know things about God? In particular, what role does religious experience play?
  - To what degree is modern morality downstream of Jesus?
