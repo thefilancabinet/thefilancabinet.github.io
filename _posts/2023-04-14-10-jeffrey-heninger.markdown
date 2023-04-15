@@ -24,6 +24,8 @@ LDS church links:
  - [LDS chapels close to you](https://maps.churchofjesuschrist.org/)
  - [Chat with LDS missionaries](https://chat.comeuntochrist.org/chat/)
 
+Jeffrey's email address: jeffrey dot heninger at yahoo dot com
+
 Jeffrey's notes and corrections:
  - 0:33:00: The combatant - noncombatant distinction did not start in Ireland in the 900s. It was started by Adomnán, an Irish abbot in Scotland, in 697, and was proclaimed throughout Western Christendom after the Council of Charroux in France in 989: <https://en.wikipedia.org/wiki/Peace_and_Truce_of_God>
  - 0:36:00: A better explanation for why the inverted hierarchy doesn’t lead to a different elite is: The king is told that he should be a servant for the poor, but the poor are also told that the king is their brother. This removes the push for violent revolutions to reverse the social order.
