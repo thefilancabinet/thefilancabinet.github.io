@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Episode 11 - Divia Eden and Ronny Fernandez on the orthogonality thesis"
+date:   2023-04-27 18:20 -0700
+categories: episodes
+---
+
+In this episode, Divia Eden and Ronny Fernandez talk about the (strong) orthogonality thesis - that arbitrarily smart intelligences can be paired with arbitrary goals, without additional complication beyond that of specifying the goal - with light prompting from me. Topics they touch on include:
+ - Why aren't bees brilliant scientists?
+ - Can you efficiently make an AGI out of one part that predicts the future conditioned on some plans, and another that evaluates whether plans are good?
+ - If minds are made of smaller sub-agents with more primitive beliefs and desires, does that shape their terminal goals?
+     - Also, how would that even work?
+ - Which is cooler: rockets, or butterflies?
+ - What processes would make AIs terminally value integrity?
+ - Why do beavers build dams?
+ - Would these questions be easier to answer if we made octopuses really smart?
+
+[Link to audio](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5saWJzeW4uY29tLzQzODA4MS9yc3M/episode/YzFlYTRlMjItMTMyOS00ZTU5LWI4YTEtYmQ1N2FlYmEyYzg3) ([download raw mp3](https://www.dropbox.com/s/aism6ygzieoyre5/DiviaRonny_final.mp3?dl=0))
+
+[Divia's twitter account](https://twitter.com/diviacaroline)
+
+[Ronny's twitter account](https://twitter.com/RatOrthodox)
+
+[Arbital page for the orthogonality thesis](https://arbital.com/p/orthogonality/)
+
+[Crystal Society](http://crystal.raelifin.com/)
+
+[Video of a rescue beaver building a dam inside a human house](https://www.youtube.com/watch?v=-ImdlZtOU80)
+
+[AIXI](https://en.wikipedia.org/wiki/AIXI)
+
+[Kelly betting](https://en.wikipedia.org/wiki/Kelly_criterion)
