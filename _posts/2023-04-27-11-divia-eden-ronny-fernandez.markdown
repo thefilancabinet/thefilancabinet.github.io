@@ -19,6 +19,8 @@ In this episode, Divia Eden and Ronny Fernandez talk about the (strong) orthogon
 
 [Divia's twitter account](https://twitter.com/diviacaroline)
 
+[Divia's podcast](https://mutualunderstanding.substack.com/)
+
 [Ronny's twitter account](https://twitter.com/RatOrthodox)
 
 [Arbital page for the orthogonality thesis](https://arbital.com/p/orthogonality/)
