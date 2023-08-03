@@ -6,7 +6,7 @@ categories: episodes
 ---
 
 In this episode I chat with John Halstead about whether climate change will kill us all. He thinks it won't. Topics we talk about include:
-- How did the effective altrism community come to have someone dedicated to the question of whether climate change will kill us all?
+- How did the effective altruism community come to have someone dedicated to the question of whether climate change will kill us all?
 - How bad will climate change likely be?
 - How is the role of carbon dioxide in the atmosphere different from that of other greenhouse gasses?
 - How big a volcano would have to go off to warm up the world by 10 degrees Celsius?
