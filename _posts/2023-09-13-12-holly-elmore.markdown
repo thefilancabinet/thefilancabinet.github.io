@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Episode 12 - Holly Elmore on AI pause"
-date:   2023-04-14 20:00 -0700
+date:   2023-09-13 20:00 -0700
 categories: episodes
 ---
 
