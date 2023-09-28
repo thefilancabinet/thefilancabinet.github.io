@@ -16,7 +16,7 @@ In this episode I chat with Jeffrey Heninger about his religious beliefs and pra
  - Why don't Mormons drink coffee?
  - What's the role of utopianism in Mormon life?
 
-[Link to audio](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5saWJzeW4uY29tLzQzODA4MS9yc3M/episode/YzU1MzQwM2ItMjMwNS00NjFmLWI2YjItYjU5MmQ5ODdhY2Yz) ([download raw mp3](https://www.dropbox.com/s/mpj2gnsn7guahao/Heninger_final.mp3?dl=0))
+[YouTube link](https://youtu.be/qBFlf4RHQy4) ([download raw mp3](https://www.dropbox.com/s/mpj2gnsn7guahao/Heninger_final.mp3?dl=0))
 
 Jeffrey's email address: jeffrey dot heninger at yahoo dot com. Please include "The Filan Cabinet" in the subject line so he knows you came from here.
 

@@ -21,6 +21,6 @@ Timestamps:
  - 01:01:08 - interview 11
  - 01:06:50 - interview 12
 
-[Link to audio](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5saWJzeW4uY29tLzQzODA4MS9yc3M/episode/YWRkZjI1NzUtZWE0Yy00ZTgyLWEyZmUtNGM2MDg0NmJlMDA4) ([download raw mp3](https://www.dropbox.com/s/92o0zabg0xsbcdq/eag_bay_area_2023.mp3?dl=0))
+[YouTube link](https://youtu.be/KuN0y4yKSIU) ([download raw mp3](https://www.dropbox.com/s/92o0zabg0xsbcdq/eag_bay_area_2023.mp3?dl=0))
 
 [Website for EA Global conferences](https://www.effectivealtruism.org/ea-global/events)

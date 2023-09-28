@@ -15,7 +15,7 @@ In this episode, Divia Eden and Ronny Fernandez talk about the (strong) orthogon
  - Why do beavers build dams?
  - Would these questions be easier to answer if we made octopuses really smart?
 
-[Link to audio](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5saWJzeW4uY29tLzQzODA4MS9yc3M/episode/YzFlYTRlMjItMTMyOS00ZTU5LWI4YTEtYmQ1N2FlYmEyYzg3) ([download raw mp3](https://www.dropbox.com/s/aism6ygzieoyre5/DiviaRonny_final.mp3?dl=0))
+[YouTube link](https://youtu.be/D5rEMNyfIWw) ([download raw mp3](https://www.dropbox.com/s/aism6ygzieoyre5/DiviaRonny_final.mp3?dl=0))
 
 [Divia's twitter account](https://twitter.com/diviacaroline)
 
