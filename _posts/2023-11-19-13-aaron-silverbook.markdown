@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Episode 14 - Aaron Silverbook on anti-cavity bacteria"
+title:  "Episode 13 - Aaron Silverbook on anti-cavity bacteria"
 date:   2023-11-19 18:00 -0700
 categories: episodes
 ---
