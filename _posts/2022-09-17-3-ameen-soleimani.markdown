@@ -13,7 +13,7 @@ In this episode, cryptocurrency developer Ameen Soleimani talks about his vision
  - Does the design of RAI make it impossible for it to be widely used?
  - What's wrong with how the US dollar works?
 
-[YouTube link](https://youtu.be/yOBrxVnZZJ4) ([download raw mp3](https://www.dropbox.com/s/dq9hz8by3cduha8/ameen.mp3?dl=0))
+[YouTube link](https://youtu.be/yOBrxVnZZJ4)
 
 [Ameen on Twitter](https://twitter.com/ameensol)
 

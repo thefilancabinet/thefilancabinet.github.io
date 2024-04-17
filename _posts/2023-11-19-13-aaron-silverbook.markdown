@@ -12,7 +12,7 @@ In this episode, I speak with Aaron Silverbook about the bacteria that cause cav
  - How dangerous is it to colonize your mouth with a novel bacterium?
  - Why hasn't this product been available for 20 years already?
 
-[YouTube link](https://youtu.be/tPyZt3EJCFM) ([download raw mp3](https://www.dropbox.com/scl/fi/vtjehp6bs2ye8wvcowrgq/AaronSilverbook1.mp3?rlkey=quqtd6z80zzvdkzcdk568wqzo&dl=0))
+[YouTube link](https://youtu.be/tPyZt3EJCFM)
 
 [Lumina Probiotic (the brand name of this new type of bacterium)](https://https://www.luminaprobiotic.com/)
 

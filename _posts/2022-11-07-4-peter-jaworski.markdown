@@ -12,7 +12,7 @@ In this episode, Peter Jaworski talks about the practice of paid plasma donation
  - If I want to gather plasma, is it cheaper to pay donors, or not pay them?
  - Is legal paid plasma donation one step towards a dystopia?
 
-[YouTube link](https://youtu.be/gicM3DSvGGA) ([download raw mp3](https://www.dropbox.com/s/yuxt5o0wenq0txl/jaworski.mp3?dl=0))
+[YouTube link](https://youtu.be/gicM3DSvGGA)
 
 [Peter's faculty page](https://gufaculty360.georgetown.edu/s/contact/00336000014TksCAAS/peter-jaworski)
 

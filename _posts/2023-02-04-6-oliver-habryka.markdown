@@ -13,7 +13,7 @@ In this episode I speak with Oliver Habryka, head of Lightcone Infrastructure, t
 - What does the FTX situation tell us about the wider LessWrong and Effective Altruism communities?
 - What projects could help improve the world's rationality?
 
-[YouTube link](https://youtu.be/4lbeutseEJQ) ([download raw mp3](https://www.dropbox.com/s/qtdd8puhntqbz7l/habryka_final.mp3?dl=0))
+[YouTube link](https://youtu.be/4lbeutseEJQ)
 
 [Oli on LessWrong](https://www.lesswrong.com/users/habryka4)
 
