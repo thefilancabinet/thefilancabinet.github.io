@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Episode 14 - The 2024 Eclipse"
-date:   2023-11-19 18:00 -0700
+date:   2024-04-24 18:00 -0700
 categories: episodes
 ---
 
