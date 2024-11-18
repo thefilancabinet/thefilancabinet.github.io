@@ -6,7 +6,7 @@ categories: episodes
 ---
 
 In which I monologue about my experience learning Latin. Links:
-
+- [My friend's podcast episode](https://mutualunderstanding.substack.com/p/election-and-other-stuff-on-my-mind)
 - [r/latin](https://www.reddit.com/r/latin/)
 - [Lingua Latina](https://www.amazon.com/Lingua-Latina-Illustrata-Pars-Familia/dp/1585104205)
 - [Playlist](https://www.youtube.com/playlist?list=PLU1WuLg45SiyrXahjvFahDuA060P487pV) of someone reading out loud the chapters (plus some related material)
