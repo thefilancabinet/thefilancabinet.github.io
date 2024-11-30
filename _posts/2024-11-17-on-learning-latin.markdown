@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Episode 15 - On learning Latin"
-date:   2023-11-19 18:00 -0700
+date:   2024-11-19 18:00 -0700
 categories: episodes
 ---
 
