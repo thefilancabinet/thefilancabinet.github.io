@@ -5,7 +5,7 @@ date:   2025-06-29 17:30 -0700
 categories: episodes
 ---
 
-In this episode, I chat with Alessandro ([@polisisti](https://x.com/polisisti/) on X/Twitter) about our respective experiences learning Latin (and in his case ancient Greek).
+In this episode, I chat with Alessandro ([@polisisti](https://x.com/polisisti/) on X/Twitter, [@poli.sisti.ca](https://bsky.app/profile/poli.sisti.ca) on Bluesky) about our respective experiences learning Latin (and in his case ancient Greek).
 
 [YouTube link](https://www.youtube.com/watch?v=YaqE-WcXWs0)
 
