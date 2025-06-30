@@ -7,6 +7,8 @@ categories: episodes
 
 In this episode, I chat with Alessandro ([@polisisti](https://x.com/polisisti/) on X/Twitter) about our respective experiences learning Latin (and in his case ancient Greek).
 
+[YouTube link](https://www.youtube.com/watch?v=YaqE-WcXWs0)
+
 Things I probably brought up:
  - [The Ranieri-Roberts approach to learning ancient Greek](https://www.youtube.com/watch?v=2vwb1wVzPec)
  - [We need to talk about Latinitas](https://foundinantiquity.com/2024/04/15/we-need-to-talk-about-latinitas/)
@@ -30,5 +32,3 @@ Dictionaries and grammars:
  - For advanced Latin grammar: ["A New Latin Syntax"](https://www.amazon.com/New-Latin-Syntax-C-Woodcock/dp/0865161267) by E.C. Woodcock
  - Alessandro's favourite Greek dictionary: The ["Cambridge Greek Lexicon"](https://www.amazon.com/The-Cambridge-Intermediate-Greek-Lexicon/dp/0521826802)
  - ["The Greek Particles"](https://www.amazon.com/Greek-Particles-J-D-Denniston/dp/0872202992) by John Dewar Denniston is the book that's very helpful for reading Plato.
-
-[YouTube link](https://www.youtube.com/watch?v=YaqE-WcXWs0)
